@@ -41,3 +41,18 @@ C:\Users\Administrador\OneDrive - Facultad Regional Resistencia\02 FACULTAD\3er 
 C:\Users\Administrador\OneDrive - Facultad Regional Resistencia\02 FACULTAD\3er AÑO\Diseño de Sistemas de Información\TallerMecanico2\TallerModel\obj\Debug\net8.0\TallerModel.pdb
 C:\Users\Administrador\OneDrive - Facultad Regional Resistencia\02 FACULTAD\3er AÑO\Diseño de Sistemas de Información\TallerMecanico2\TallerModel\obj\Debug\net8.0\TallerModel.genruntimeconfig.cache
 C:\Users\Administrador\OneDrive - Facultad Regional Resistencia\02 FACULTAD\3er AÑO\Diseño de Sistemas de Información\TallerMecanico2\TallerModel\obj\Debug\net8.0\ref\TallerModel.dll
+C:\Users\PC\source\repos\Nuevo\TallerModel\bin\Debug\net8.0\TallerModel.deps.json
+C:\Users\PC\source\repos\Nuevo\TallerModel\bin\Debug\net8.0\TallerModel.runtimeconfig.json
+C:\Users\PC\source\repos\Nuevo\TallerModel\bin\Debug\net8.0\TallerModel.dll
+C:\Users\PC\source\repos\Nuevo\TallerModel\bin\Debug\net8.0\TallerModel.pdb
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.AssemblyInfo.cs
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.sourcelink.json
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.dll
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\refint\TallerModel.dll
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.pdb
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\TallerModel.genruntimeconfig.cache
+C:\Users\PC\source\repos\Nuevo\TallerModel\obj\Debug\net8.0\ref\TallerModel.dll

@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Nuevo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\source\\repos\\nuevo\\blazorapp1\\components\\pages\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Nuevo\\BlazorApp1\\Components\\Pages\\Usuarios.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Usuarios.razor",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Nuevo\\BlazorApp1\\Components\\Pages\\Usuarios.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Usuarios.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T22:12:24.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
