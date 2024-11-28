@@ -1,4 +1,4 @@
-﻿@page "/mostrar-info-vehiculo"
+﻿@page "/error-vehiculo"
 <div class="modal fade show mt-5" style="display: block; position: absolute; right: 20px;" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -9,13 +9,7 @@
                 </a>
             </div>
             <div class="modal-body">
-                <p><strong>Patente:</strong> ABC123</p>
-                <p><strong>Marca:</strong> Toyota</p>
-                <p><strong>Modelo:</strong> Corolla</p>
-                <p><strong>Apoderado:</strong> Juan Perez</p>
-                <p><strong>DNI Apoderado:</strong> 12345678</p>
-                <p><strong>Estado en Registro Nacional Vehicular:</strong> Registrado </p>
-                <p><strong>Ultima Revision:</strong> 26/06/2011</p>
+                <p class="modal-text"><strong>Lo lamentamos, no existe vehículo con esta patente</strong></p>
             </div>
         </div>
     </div>
@@ -36,4 +30,10 @@
             display: inline-block;
             font-weight: bold;
         }
+
+    /* Estilo para el texto del modal */
+    .modal-text {
+        font-size: 1.5rem; /* Cambia este valor para ajustar el tamaño */
+        text-align: center; /* Centra el texto */
+    }
 </style>
