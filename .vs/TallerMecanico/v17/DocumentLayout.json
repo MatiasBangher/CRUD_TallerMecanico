@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\",
+  "WorkspaceRootPath": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\dds_tpi_ahorasi\\crud_tallermecanico\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\matias\\onedrive - facultad regional resistencia\\escritorio\\facultad\\cuarto a\u00F1o\\dise\u00F1o de sistemas\\abm-de-usuarios\\tpi2\\crud_tallermecanico\\blazorapp1\\components\\pages\\errormostrarinfovehiculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\errormostrarinfovehiculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\matias\\onedrive - facultad regional resistencia\\escritorio\\facultad\\cuarto a\u00F1o\\dise\u00F1o de sistemas\\abm-de-usuarios\\tpi2\\crud_tallermecanico\\blazorapp1\\components\\pages\\mostrarinfovehiculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\mostrarinfovehiculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\matias\\onedrive - facultad regional resistencia\\escritorio\\facultad\\cuarto a\u00F1o\\dise\u00F1o de sistemas\\abm-de-usuarios\\tpi2\\crud_tallermecanico\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\matias\\onedrive - facultad regional resistencia\\escritorio\\facultad\\cuarto a\u00F1o\\dise\u00F1o de sistemas\\abm-de-usuarios\\tpi2\\crud_tallermecanico\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\dds_tpi_ahorasi\\crud_tallermecanico\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\matias\\onedrive - facultad regional resistencia\\escritorio\\facultad\\cuarto a\u00F1o\\dise\u00F1o de sistemas\\abm-de-usuarios\\tpi2\\crud_tallermecanico\\blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\matias\\onedrive - facultad regional resistencia\\escritorio\\facultad\\cuarto a\u00F1o\\dise\u00F1o de sistemas\\abm-de-usuarios\\tpi2\\crud_tallermecanico\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{468C5C22-5BE7-497F-8D74-61EA7313A7BF}|TallerModel\\TallerModel.csproj|c:\\users\\maxco\\onedrive\\desktop\\dds_tpi_ahorasi\\crud_tallermecanico\\tallermodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{468C5C22-5BE7-497F-8D74-61EA7313A7BF}|TallerModel\\TallerModel.csproj|c:\\users\\matias\\onedrive - facultad regional resistencia\\escritorio\\facultad\\cuarto a\u00F1o\\dise\u00F1o de sistemas\\abm-de-usuarios\\tpi2\\crud_tallermecanico\\tallermodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{468C5C22-5BE7-497F-8D74-61EA7313A7BF}|TallerModel\\TallerModel.csproj|solutionrelative:tallermodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\dds_tpi_ahorasi\\crud_tallermecanico\\blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,47 +43,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ErrorMostrarInfoVehiculo.razor",
+              "DocumentMoniker": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\ErrorMostrarInfoVehiculo.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\ErrorMostrarInfoVehiculo.razor",
+              "ToolTip": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\ErrorMostrarInfoVehiculo.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\ErrorMostrarInfoVehiculo.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:59:54.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mostrarinfovehiculo.razor",
+              "DocumentMoniker": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mostrarinfovehiculo.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Mostrarinfovehiculo.razor",
+              "ToolTip": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mostrarinfovehiculo.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Mostrarinfovehiculo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:58:43.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:56:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Home.razor*",
-              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Home.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T22:18:58.529Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Model.cs",
-              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
               "RelativeDocumentMoniker": "TallerModel\\Model.cs",
-              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
+              "ToolTip": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
               "RelativeToolTip": "TallerModel\\Model.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAA3wLMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,28 +106,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
               "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
               "RelativeToolTip": "BlazorApp1\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAlwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:06:16.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T22:06:16.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Turnos.razor",
-              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "DocumentMoniker": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Turnos.razor",
-              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "ToolTip": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto a\u00F1o\\Dise\u00F1o de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
               "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Turnos.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T22:01:06.292Z"
+              "WhenOpened": "2024-11-28T22:01:06.292Z",
+              "EditorCaption": ""
             }
           ]
         }
