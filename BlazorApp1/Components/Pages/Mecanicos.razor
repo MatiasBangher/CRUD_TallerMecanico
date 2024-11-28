@@ -1,0 +1,62 @@
+﻿@using TallerModel 
+@page "/Mecanicos"
+@inject UsuarioServices UsuarioService
+@inject NavigationManager Navigation //sin usar tdv
+
+<h1>Mecánicos Disponibles</h1>
+
+@if (mecanicos == null)
+{
+    <p>Cargando...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Email</th>
+                <th>Teléfono</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var mecanico in mecanicos)
+            {
+                <tr>
+                    <td>@mecanico.Nombre</td>
+                    <td>@mecanico.Apellido</td>
+                    <td>@mecanico.Email</td>
+                    <td>@mecanico.Telefono</td>
+                    <td>
+                        <button class="btn btn-success" @onclick="() => AsignarMecanico(mecanico)">Asignar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Usuario>? mecanicos;
+
+    protected override void OnInitialized()
+    {
+        // Crear 3 mecánicos estáticos
+        mecanicos = new List<Usuario>
+        {
+            new Usuario { Nombre = "Carlos", Apellido = "Pérez", Email = "carlos@gmail.com", Telefono = "3624-763498" },
+            new Usuario { Nombre = "Ana", Apellido = "López", Email = "ana@gmail.com", Telefono = "3624-438872" },
+            new Usuario { Nombre = "Luis", Apellido = "García", Email = "luis@gmail.com", Telefono = "3624-349812" }
+        };
+    }
+
+    private void AsignarMecanico(Usuario mecanico)
+    {
+        // Aquí deberías implementar la lógica para asignar el mecánico al turno
+        Console.WriteLine($"Mecánico asignado: {mecanico.Nombre} {mecanico.Apellido}");
+
+        // Redirigir a la página de turnos después de asignar el mecánico
+        Navigation.NavigateTo("/turnos");
+    }
+}

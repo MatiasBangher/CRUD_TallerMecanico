@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Nuevo\\",
+  "WorkspaceRootPath": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\source\\repos\\nuevo\\blazorapp1\\components\\pages\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\usuarios.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\dds_tpi_ahorasi\\crud_tallermecanico\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468C5C22-5BE7-497F-8D74-61EA7313A7BF}|TallerModel\\TallerModel.csproj|c:\\users\\maxco\\onedrive\\desktop\\dds_tpi_ahorasi\\crud_tallermecanico\\tallermodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468C5C22-5BE7-497F-8D74-61EA7313A7BF}|TallerModel\\TallerModel.csproj|solutionrelative:tallermodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\dds_tpi_ahorasi\\crud_tallermecanico\\blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +22,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuarios.razor",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Nuevo\\BlazorApp1\\Components\\Pages\\Usuarios.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Usuarios.razor",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Nuevo\\BlazorApp1\\Components\\Pages\\Usuarios.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Usuarios.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T22:12:24.185Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
+              "RelativeDocumentMoniker": "TallerModel\\Model.cs",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
+              "RelativeToolTip": "TallerModel\\Model.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAA3wLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:06:35.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "BlazorApp1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:06:16.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turnos.razor",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\dds_tpi_ahorasi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T22:01:06.292Z"
             }
           ]
         }

@@ -21,12 +21,12 @@ namespace TallerModel
     public class Usuario
     {
         public int UsuarioId { get; set; }
-        public string? Nombre { get; set; } 
-        public string? Apellido { get; set; } 
+        public string? Nombre { get; set; }
+        public string? Apellido { get; set; }
         public string? Contraseña { get; set; }
         public string? Email { get; set; }
         public string? Dni { get; set; }
-        public string? Cuil { get; set;} 
+        public string? Cuil { get; set; }
         public string? Telefono { get; set; }
         public Rango? Puesto { get; set; }
     }
@@ -78,7 +78,7 @@ namespace TallerModel
         public IEnumerable<Usuario>? GetByNombreyAp(string aBuscar)
         {
             var usuarios = _context.Usuarios.Where(u => u.Nombre.Contains(aBuscar) || u.Apellido.Contains(aBuscar)).ToList();
-            
+
             if (usuarios == null)
             {
                 return null;
@@ -109,7 +109,7 @@ namespace TallerModel
         public int? Delete(int id)
         {
             var usuario = _context.Usuarios.Single(u => u.UsuarioId == id);
-            
+
             if (usuario == null)
             {
                 return null;
@@ -130,5 +130,51 @@ namespace TallerModel
         public required string Motor { get; set; }
         public int DniApoderado { get; set; }
         public required string NombreApoderado { get; set; }
+    }
+
+    public class Turno
+    {
+        public int TurnoId { get; set; }
+        public DateTime FechaHora { get; set; }
+        public string Vehiculo { get; set; } // Podrías relacionarlo con la clase Vehiculo si lo necesitas
+        public string Cliente { get; set; }
+        public int? MecanicoId { get; set; } // Puede ser null si no hay mecánico asignado
+        public Usuario? Mecanico { get; set; }
+    }
+
+    public class TurnoServices
+    {
+        private List<Turno> turnos;
+
+        public TurnoServices()
+        {
+            // Inicializar turnos estáticos
+            turnos = new List<Turno>
+            {
+                new Turno { TurnoId = 1, Vehiculo = "Toyota Corolla", Cliente = "Juan Pérez", FechaHora = new DateTime(2024, 11, 24, 10, 0, 0) },
+                new Turno { TurnoId = 2, Vehiculo = "Ford Ranger", Cliente = "María López", FechaHora = new DateTime(2024, 11, 24, 11, 0, 0) },
+                new Turno { TurnoId = 3, Vehiculo = "Honda Civic", Cliente = "Carlos García", FechaHora = new DateTime(2024, 11, 24, 12, 0, 0) },
+                new Turno { TurnoId = 4, Vehiculo = "Chevrolet Onix", Cliente = "Ana Torres", FechaHora = new DateTime(2024, 11, 24, 13, 0, 0) },
+                new Turno { TurnoId = 5, Vehiculo = "Volkswagen Golf", Cliente = "Luis Sánchez", FechaHora = new DateTime(2024, 11, 24, 14, 0, 0) }
+            };
+        }
+
+        public IEnumerable<Turno> GetTurnosSinMecanico()
+        {
+            return turnos.Where(t => t.MecanicoId == null);
+        }
+
+        public void AsignarMecanico(int turnoId, int mecanicoId)
+        {
+            var turno = turnos.FirstOrDefault(t => t.TurnoId == turnoId);
+            if (turno != null)
+            {
+                turno.MecanicoId = mecanicoId;
+            }
+            else
+            {
+                Console.WriteLine("No se encontró el turno.");
+            }
+        }
     }
 }

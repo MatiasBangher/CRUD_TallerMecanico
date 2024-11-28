@@ -1,7 +1,11 @@
 using BlazorApp1.Components;
 using System.Net.Http;
+using TallerModel;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddScoped<TurnoServices>();
+builder.Services.AddScoped<UsuarioServices>();
 
 // Agregar HttpClient como un servicio para Blazor Server
 builder.Services.AddHttpClient();
