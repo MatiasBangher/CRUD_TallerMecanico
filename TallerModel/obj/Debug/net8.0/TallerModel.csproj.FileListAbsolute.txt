@@ -86,3 +86,18 @@ C:\Users\Matias\OneDrive - Facultad Regional Resistencia\Escritorio\Facultad\Cua
 C:\Users\Matias\OneDrive - Facultad Regional Resistencia\Escritorio\Facultad\Cuarto año\Diseño de Sistemas\ABM-de-usuarios\TPI2\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.pdb
 C:\Users\Matias\OneDrive - Facultad Regional Resistencia\Escritorio\Facultad\Cuarto año\Diseño de Sistemas\ABM-de-usuarios\TPI2\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.genruntimeconfig.cache
 C:\Users\Matias\OneDrive - Facultad Regional Resistencia\Escritorio\Facultad\Cuarto año\Diseño de Sistemas\ABM-de-usuarios\TPI2\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\ref\TallerModel.dll
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\bin\Debug\net8.0\TallerModel.deps.json
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\bin\Debug\net8.0\TallerModel.runtimeconfig.json
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\bin\Debug\net8.0\TallerModel.dll
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\bin\Debug\net8.0\TallerModel.pdb
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.csproj.AssemblyReference.cache
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.AssemblyInfoInputs.cache
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.AssemblyInfo.cs
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.csproj.CoreCompileInputs.cache
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.sourcelink.json
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.dll
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\refint\TallerModel.dll
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.pdb
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\TallerModel.genruntimeconfig.cache
+C:\Users\maxco\OneDrive\Desktop\tpi_dsi\CRUD_TallerMecanico\TallerModel\obj\Debug\net8.0\ref\TallerModel.dll

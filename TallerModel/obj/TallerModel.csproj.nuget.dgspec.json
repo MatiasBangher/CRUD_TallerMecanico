@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto año\\Diseño de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj": {}
+    "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto año\\Diseño de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj": {
+    "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto año\\Diseño de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj",
+        "projectUniqueName": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj",
         "projectName": "TallerModel",
-        "projectPath": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto año\\Diseño de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj",
-        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matias\\OneDrive - Facultad Regional Resistencia\\Escritorio\\Facultad\\Cuarto año\\Diseño de Sistemas\\ABM-de-usuarios\\TPI2\\CRUD_TallerMecanico\\TallerModel\\obj\\",
+        "projectPath": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\TallerModel\\TallerModel.csproj",
+        "packagesPath": "C:\\Users\\maxco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\TallerModel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\maxco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
