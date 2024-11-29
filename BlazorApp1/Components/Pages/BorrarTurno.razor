@@ -1,0 +1,20 @@
+﻿@page "/borrar-turno/{turnoId:int}"
+@using TallerModel
+@inject TurnoServices TurnoService
+@inject NavigationManager Navigation
+
+<h3>Asignando turno...</h3>
+
+@code {
+    [Parameter] public int TurnoId { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Elimina el turno
+        TurnoService.DeleteTurno(TurnoId);
+
+        // Espera un pequeño retraso y redirige
+        await Task.Delay(100); // Retraso para asegurar la redirección fluida
+        Navigation.NavigateTo("/turnos", forceLoad: true);
+    }
+}

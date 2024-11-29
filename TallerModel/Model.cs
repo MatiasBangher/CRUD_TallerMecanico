@@ -176,5 +176,51 @@ namespace TallerModel
                 Console.WriteLine("No se encontró el turno.");
             }
         }
+
+        public void DeleteTurno(int turnoId)
+        {
+            var turno = turnos.FirstOrDefault(t => t.TurnoId == turnoId);
+            if (turno != null)
+            {
+                turnos.Remove(turno);
+            }
+        }
+
+
+    }
+
+    public class Mecanico
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; } = string.Empty;
+        public string Apellido { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string Telefono { get; set; } = string.Empty;
+    }
+
+    public class MecanicoServices
+    {
+        private readonly List<Mecanico> mecanicos;
+
+        public MecanicoServices()
+        {
+            // Datos estáticos simulados
+            mecanicos = new List<Mecanico>
+            {
+                new Mecanico { Id = 1, Nombre = "Carlos", Apellido = "Pérez", Email = "carlos@gmail.com", Telefono = "3624-763498" },
+                new Mecanico { Id = 2, Nombre = "Ana", Apellido = "López", Email = "ana@gmail.com", Telefono = "3624-438872" },
+                new Mecanico { Id = 3, Nombre = "Luis", Apellido = "García", Email = "luis@gmail.com", Telefono = "3624-349812" }
+            };
+        }
+
+        public IEnumerable<Mecanico> GetAll()
+        {
+            return mecanicos;
+        }
+
+        public Mecanico? GetById(int id)
+        {
+            return mecanicos.FirstOrDefault(m => m.Id == id);
+        }
     }
 }

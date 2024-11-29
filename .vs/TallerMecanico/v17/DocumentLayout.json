@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\error_mecanicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\error_mecanicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\mecanicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\mecanicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\error_turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\error_turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\turnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\mecanicos_turno.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\mecanicos_turno.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\mostrarinfoturno-asignado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\mostrarinfoturno-asignado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\mecanicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\mecanicos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\components\\pages\\borrarturno.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\borrarturno.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468C5C22-5BE7-497F-8D74-61EA7313A7BF}|TallerModel\\TallerModel.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\tallermodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468C5C22-5BE7-497F-8D74-61EA7313A7BF}|TallerModel\\TallerModel.csproj|solutionrelative:tallermodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C9BC6F0-4ED6-43F8-A2A3-E4C76340DC57}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\maxco\\onedrive\\desktop\\tpi_dsi\\crud_tallermecanico\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,54 +74,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
-              "RelativeToolTip": "BlazorApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T00:08:03.799Z",
+              "DocumentIndex": 0,
+              "Title": "Error_mecanicos.razor",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Error_mecanicos.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Error_mecanicos.razor",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Error_mecanicos.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Error_mecanicos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T01:44:32.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Mecanicos.razor",
-              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mecanicos.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Mecanicos.razor",
-              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mecanicos.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Mecanicos.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Title": "Error_turnos.razor",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Error_turnos.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Error_turnos.razor",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Error_turnos.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Error_turnos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T01:44:16.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "BlazorApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:02:25.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Turnos.razor",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Turnos.razor",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T00:49:25.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
+              "RelativeDocumentMoniker": "TallerModel\\Model.cs",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\TallerModel\\Model.cs",
+              "RelativeToolTip": "TallerModel\\Model.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAiwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:48:16.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mecanicos_turno.razor",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mecanicos_turno.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Mecanicos_turno.razor",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mecanicos_turno.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Mecanicos_turno.razor",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T23:53:24.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "BorrarTurno.razor",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\BorrarTurno.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\BorrarTurno.razor",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\BorrarTurno.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\BorrarTurno.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T01:24:16.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Mostrarinfoturno-asignado.razor",
               "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mostrarinfoturno-asignado.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Mostrarinfoturno-asignado.razor",
               "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mostrarinfoturno-asignado.razor",
               "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Mostrarinfoturno-asignado.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T23:28:31.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Turnos.razor",
-              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Turnos.razor",
-              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Turnos.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Turnos.razor",
-              "ViewState": "AgIAAB4AAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Mecanicos.razor",
+              "DocumentMoniker": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mecanicos.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Mecanicos.razor",
+              "ToolTip": "C:\\Users\\maxco\\OneDrive\\Desktop\\tpi_dsi\\CRUD_TallerMecanico\\BlazorApp1\\Components\\Pages\\Mecanicos.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Mecanicos.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T23:16:29.594Z",
+              "WhenOpened": "2024-11-29T01:35:16.336Z",
               "EditorCaption": ""
             }
           ]

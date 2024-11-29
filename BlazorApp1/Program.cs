@@ -5,6 +5,7 @@ using TallerModel;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<TurnoServices>();
+builder.Services.AddScoped<MecanicoServices>();
 builder.Services.AddScoped<UsuarioServices>();
 
 // Agregar HttpClient como un servicio para Blazor Server

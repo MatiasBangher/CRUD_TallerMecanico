@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/BorrarTurno.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb3JyYXJUdXJuby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/CrearUsuario.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDcmVhclVzdWFyaW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +38,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvck1vc3RyYXJJbmZvVmVoaWN1bG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/Error_mecanicos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvcl9tZWNhbmljb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/Error_turnos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvcl90dXJub3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +56,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/Mecanicos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNZWNhbmljb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/Mecanicos_turno.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNZWNhbmljb3NfdHVybm8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maxco/OneDrive/Desktop/tpi_dsi/CRUD_TallerMecanico/BlazorApp1/Components/Pages/ModificarUsuario.razor]

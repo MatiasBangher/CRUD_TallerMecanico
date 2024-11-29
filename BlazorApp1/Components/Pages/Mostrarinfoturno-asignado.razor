@@ -1,1 +1,70 @@
-﻿
+﻿@page "/mostrarinfoturno-asignado/{turnoId:int}/{mecanicoId:int}"
+@using TallerModel
+@inject TurnoServices TurnoService
+@inject MecanicoServices MecanicoService
+
+<div class="modal fade show mt-5" style="display: block; position: absolute; right: 20px;" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Información del Turno y Mecánico Asignado</h5>
+                <a class="close custom-close" href="/turnos">
+                    <span>&times;</span>
+                </a>
+            </div>
+            <div class="modal-body">
+                @if (turno == null || mecanico == null)
+                {
+                    <p>Cargando...</p>
+                }
+                else
+                {
+                    <h6><strong>Información del Turno:</strong></h6>
+                    <p><strong>Vehículo:</strong> @turno.Vehiculo</p>
+                    <p><strong>Cliente:</strong> @turno.Cliente</p>
+                    <p><strong>Fecha y Hora:</strong> @turno.FechaHora</p>
+
+                    <h6><strong>Información del Mecánico:</strong></h6>
+                    <p><strong>Nombre:</strong> @mecanico.Nombre</p>
+                    <p><strong>Apellido:</strong> @mecanico.Apellido</p>
+                    <p><strong>Email:</strong> @mecanico.Email</p>
+                    <p><strong>Teléfono:</strong> @mecanico.Telefono</p>
+                }
+            </div>
+            <div class="modal-footer">
+                <NavLink class="btn btn-primary" href="/home">Confirmar</NavLink>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .custom-close {
+        font-size: 2rem;
+        color: red;
+        text-decoration: none;
+    }
+
+        .custom-close:hover {
+            color: darkred;
+        }
+
+        .custom-close span {
+            display: inline-block;
+            font-weight: bold;
+        }
+</style>
+
+@code {
+    [Parameter] public int TurnoId { get; set; }
+    [Parameter] public int MecanicoId { get; set; }
+
+    private Turno? turno;
+    private Mecanico? mecanico;
+
+    protected override void OnInitialized()
+    {
+        turno = TurnoService.GetTurnosSinMecanico().FirstOrDefault(t => t.TurnoId == TurnoId);
+        mecanico = MecanicoService.GetById(MecanicoId);
+    }
+}

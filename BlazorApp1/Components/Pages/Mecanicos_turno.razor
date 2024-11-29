@@ -1,5 +1,6 @@
 ﻿@using TallerModel
-@page "/mecanicos"
+@page "/mecanicos/{turnoId:int}"
+@inject UsuarioServices UsuarioService
 
 <h1>Mecánicos Disponibles</h1>
 
@@ -16,6 +17,7 @@ else
                 <th>Apellido</th>
                 <th>Email</th>
                 <th>Teléfono</th>
+                <th>Acción</th>
             </tr>
         </thead>
         <tbody>
@@ -26,6 +28,11 @@ else
                     <td>@mecanico.Apellido</td>
                     <td>@mecanico.Email</td>
                     <td>@mecanico.Telefono</td>
+                    <td>
+                        <NavLink class="btn btn-success" href="@($"/Mostrarinfoturno-asignado/{TurnoId}/{mecanico.UsuarioId}")">
+                            Asignar
+                        </NavLink>
+                    </td>
                 </tr>
             }
         </tbody>

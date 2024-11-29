@@ -1,10 +1,10 @@
-﻿@page "/turnos"
+﻿@page "/Error_turnos"
 @using TallerModel
 @inject TurnoServices TurnoService
 
 <h1>Turnos sin Mecánico</h1>
 
-@if (turnosSinMecanico == null || !turnosSinMecanico.Any())
+@if (turnosSinMecanico != null)
 {
     <p>No hay turnos disponibles.</p>
 }
