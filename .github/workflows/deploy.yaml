@@ -1,0 +1,37 @@
+name: Deploy Blazor App to Azure
+
+on:
+  push:
+    branches:
+      - home
+  pull_request:
+    branches:
+      - '*'
+env:
+  AZURE_WEBAPP_NAME: DiseñoTPI2 # nombre de tu Azure Web App
+  AZURE_WEBAPP_PACKAGE_PATH: '.' # ruta de salida del paquete de la app
+  DOTNET_VERSION: '8.0.x' # versión de .NET
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment: dev
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: dotnet build and publish
+        run: |
+          dotnet restore
+          dotnet build --configuration Release
+          dotnet publish -c Release -o '${{ env.AZURE_WEBAPP_PACKAGE_PATH }}/myapp'
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: ${{ env.AZURE_WEBAPP_NAME }} # Replace with your app name
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE}}
+          package: '${{ env.AZURE_WEBAPP_PACKAGE_PATH }}/myapp'
